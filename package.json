@@ -7,6 +7,7 @@
     "storybook": "storybook start -p 9001"
   },
   "dependencies": {
+    "apsl-react-native-button": "^3.0.0",
     "react": "15.2.1",
     "react-native": "^0.29.1"
   },
